@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "IBM-Plex-Sans";
+    font-weight: 700;
+    src: url("/assets/fonts/ibm-plex/IBMPlexSans-Medium.ttf")
+}
+
+@font-face {
+    font-family: "IBM-Plex-Serif";
+    font-weight: 700;
+    src: url("/assets/fonts/ibm-plex/IBMPlexSerif-Medium.otf")
+}
